@@ -1,5 +1,5 @@
 <?php
 	echo "123";
 	echo '<br>';
-	echo "windows";exit;
+	echo "windows1";exit;
 ?>
