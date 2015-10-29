@@ -1,3 +1,3 @@
 <?php
-	echo "windows";exit;
+	echo "windows1";exit;
 ?>
