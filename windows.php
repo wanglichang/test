@@ -1,5 +1,5 @@
 <?php
 	echo "123";
 	echo '<br>';
-	echo "windowstts";exit;
+	echo "windows1tts";exit;
 ?>
