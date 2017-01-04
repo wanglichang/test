@@ -1,4 +1,4 @@
 <?php
-echo 'add';
+echo 'adds';
 echo 'update';
 ?>
